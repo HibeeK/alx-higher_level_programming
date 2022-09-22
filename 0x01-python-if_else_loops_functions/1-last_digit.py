@@ -7,7 +7,9 @@ n = repr(number)
 last_str = n[-1]
 # convert the string to an integer
 last_digit = int(last_str)
-print("Last digit of {} is {} and is ".format(number, last_digit), end=" ")
+if number < 0:
+    last_digit = -last_digit
+print("Last digit of {} is {} and is ".format(number, last_digit), end="")
 if last_digit > 5:
     print("greater than 5")
 elif last_digit == 0:
