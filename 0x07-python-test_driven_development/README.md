@@ -76,7 +76,5 @@ also known as manual testing, allows test managers to set up and distribute manu
 ---
 
 ## Author
-* **Juan Pablo Yepes Tamayo**
- - [GitHub](https://github.com/PabloYepes27)
- - [Linkedin](www.linkedin.com/in/pablo-yepes-120495)
- - [Twitter](https://twitter.com/pabloyepes27)
+* **Akintola Ibukun Josiah**
+ - [GitHub](https://github.com/HibeeK)
