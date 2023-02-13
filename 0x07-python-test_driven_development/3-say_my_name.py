@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""[Write a function that prints My name is 
+"""[Write a function that prints My name is
 <first name> <last name>]"""
 
 
@@ -18,7 +18,7 @@ def say_my_name(first_name, last_name=""):
     """
     if type(first_name) is not str:
         raise TypeError("first_name must be a string")
- 
+
     if len(first_name) is 0:
         raise TypeError("first_name must be a string")
 
